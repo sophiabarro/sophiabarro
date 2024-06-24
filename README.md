@@ -13,7 +13,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 sophiabarros0802@gmail.com
 
 
-![](https://media.tenor.com/SkojR9ESffgAAAAM/sung-han-bin-sung-hanbin.gif)
+![](https://media1.tenor.com/m/76sxuhFbSzQAAAAC/dog.gif.)
 
 
 
