@@ -1,4 +1,4 @@
-## boas vindas ao meu perfil 💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙
+## boas vindas ao meu perfil 💙💙💙
 
 
 **sophiabarro/sophiabarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 sophiabarros0802@gmail.com
 
 
-![](https://media1.tenor.com/m/76sxuhFbSzQAAAAC/dog.gif.)
+![](https://images.app.goo.gl/f9CgQffEksrBtFpR9)
 
 
 
