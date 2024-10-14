@@ -13,7 +13,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 sophiabarros0802@gmail.com
 
 
-![](https://www.google.com/imgres?q=fotos%20meme&imgurl=https%3A%2F%2Fs5.static.brasilescola.uol.com.br%2Fbe%2F2022%2F10%2Fmeme-joelma.jpg&imgrefurl=https%3A%2F%2Fbrasilescola.uol.com.br%2Fcuriosidades%2Fmemes.htm&docid=XkF7Bjf0EF0D7M&tbnid=VqVrEh5qYSFD_M&vet=12ahUKEwjSx9W8642JAxUeNrkGHR5kKDEQM3oECF8QAA..i&w=600&h=449&hcb=2&ved=2ahUKEwjSx9W8642JAxUeNrkGHR5kKDEQM3oECF8QAA)
+![minha foto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fsticker%2FZb1-Kim-gyuvin-Kim-gyuvin-thinking-meme-by-Bubbleshop16%2F150934582.EJUG5&psig=AOvVaw0fGPwetVKvVUAta41ZDI7w&ust=1728994472073000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCNuqjsjYkDFQAAAAAdAAAAABAE)
 
 
 
