@@ -13,7 +13,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 sophiabarros0802@gmail.com
 
 
-![](https://images.app.goo.gl/f9CgQffEksrBtFpR9)
+![](https://tenor.com/pt-PT/view/zb1-zerobaseone-memes-sung-hanbin-hiding-sung-hanbin-gif-8426134759858692901)
 
 
 
