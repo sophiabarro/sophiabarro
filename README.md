@@ -13,7 +13,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 sophiabarros0802@gmail.com
 
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fsticker%2FZb1-Kim-gyuvin-Kim-gyuvin-thinking-meme-by-Bubbleshop16%2F150934582.EJUG5&psig=AOvVaw0fGPwetVKvVUAta41ZDI7w&ust=1728994472073000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCNuqjsjYkDFQAAAAAdAAAAABAE)
+![minha foto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fsticker%2FZb1-Kim-gyuvin-Kim-gyuvin-thinking-meme-by-Bubbleshop16%2F150934582.EJUG5&psig=AOvVaw0fGPwetVKvVUAta41ZDI7w&ust=1728994472073000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCNuqjsjYkDFQAAAAAdAAAAABAE)
 
 
 
@@ -23,19 +23,3 @@ sophiabarros0802@gmail.com
 00001090997061sp@al.educacao.sp,gov.br
 
 
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mini Flor</title>
-    <style>
-        .flower {
-            position: relative;
-            width: 50px;
-            height: 50px;
-            margin: 100px auto;
-        }
